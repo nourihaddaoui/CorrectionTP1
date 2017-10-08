@@ -1,0 +1,7 @@
+*.db
+obj
+Migrations
+bin
+.vscode
+
+*.log
